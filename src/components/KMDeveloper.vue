@@ -54,6 +54,7 @@
           class="
             px-2
             py-1
+            mr-2
             rounded
             bg-transparent
             border-white
@@ -64,6 +65,23 @@
           "
           style="font-size: 13px"
           >View Portfolio</a
+        >
+        <a
+          href="https://github.com/medredakamal/km-todosapp-vuejs"
+          target="_blank"
+          class="
+            px-2
+            py-1
+            rounded
+            bg-transparent
+            border-white
+            text-white
+            border
+            hover:bg-white hover:text-blue-900
+            transition-all
+          "
+          style="font-size: 13px"
+          >Source Code</a
         >
       </div>
     </div>
