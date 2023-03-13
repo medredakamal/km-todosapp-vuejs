@@ -1,3 +1,9 @@
+/** -- KM Todos App using VueJS - by Med Reda Kamal --
+    * Github : www.github.com/medredakamal
+    * Portfolio : www.medredakamal.dev
+    * LinkedIn : www.linkedin.com/in/medredakamal 
+*/
+
 import Vue from "vue";
 import router from "./router";
 
